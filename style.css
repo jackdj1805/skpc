@@ -1,0 +1,95 @@
+.header{
+  background-color: #CDF0EA;
+padding-left: 3rem;
+padding-right: 3rem;
+padding-bottom: 80px;
+  margin: 0;
+}
+.logo{
+  width:25%;
+  border-radius: 150%;
+
+  position: absolute;
+  margin-top: 100px;
+margin-left: 200px;
+}
+.it{
+    position: absolute;
+  text-align: center;
+  padding-top: 5rem;
+  padding-left: 5rem;
+
+}
+.title-1{
+  padding-top: 100px;
+}
+.top{
+  padding-bottom: 7rem;
+}
+.container-fluid{
+  padding-top: 5rem;
+  padding-bottom: 15rem;
+}
+.engineer{
+  background-color: #CDF0EA;
+  padding: 10rem 15rem;
+  text-align: center;
+}
+.services{
+  background-color: #EFFFFD;
+  padding: 10rem 5rem;
+}
+.services-off{
+  padding: 5rem 0;
+}
+.contact{
+  text-align: center;
+  background-color:#CDF0EA ;
+  padding:7rem 0;
+}
+.footer{
+  text-align: center;
+  padding: 5rem 0;
+}
+.services-off {
+  text-align: center;
+}
+.images{
+  background-color: #EFFFFD;
+  text-align: center;
+padding-bottom: 10rem;
+}
+.img-t{
+  width:30%;
+margin:10rem;
+border-radius: 5%;
+
+}
+.but{
+  padding: 10%;
+}
+.footer{
+  background-color:  #EFFFFD;
+}
+.eng-img{
+  width:80%;
+  border-radius: 100%;
+
+}
+.cnt{
+  padding: 5rem;
+}
+.utg{
+  padding:2rem;
+}
+@media(max-width:1000px){
+  .header{
+    text-align: center;
+  }
+  .logo{
+    position: static;
+    width:150px;
+padding-bottom: 50px;
+
+  }
+}
